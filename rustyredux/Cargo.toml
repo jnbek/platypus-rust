@@ -1,0 +1,11 @@
+[package]
+name = "rustyredux"
+version = "0.1.0"
+edition = "2022"
+authors = ["jnbek jnbek1972@gmail.com","oylenshpeegul <theaney@gmail.com>"]
+# See more keys and their definitions at https://doc.rustlang.org/cargo/reference/manifest.html
+
+[lib]
+name = "rustyredux"
+crate-type = ["dylib"]
+
