@@ -1,1 +1,1 @@
-Currently Broken
+This now works more or less identically to it's inspiration: https://github.com/oylenshpeegul/rusty-perl except it uses https://metacpan.org/pod/FFI::Platypus instead of https://metacpan.org/pod/FFI::Raw because FFI::Platypus is better maintained.
